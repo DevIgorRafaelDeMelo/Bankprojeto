@@ -1,0 +1,22 @@
+.App {
+  margin: 0%;
+  padding: 0%;
+  height: 100vh;
+}
+
+#Login {
+  background-image: url("./Img/pexels-photo-281260.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Main {
+  background-image: url("./Img/pexels-photo-281260.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
